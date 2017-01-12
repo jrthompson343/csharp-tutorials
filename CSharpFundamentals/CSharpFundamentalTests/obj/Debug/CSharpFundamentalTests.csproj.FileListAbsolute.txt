@@ -1,0 +1,5 @@
+C:\projects\sandbox\CSharpFundamentals\CSharpFundamentalTests\bin\Debug\CSharpFundamentalTests.dll
+C:\projects\sandbox\CSharpFundamentals\CSharpFundamentalTests\bin\Debug\CSharpFundamentalTests.pdb
+C:\projects\sandbox\CSharpFundamentals\CSharpFundamentalTests\obj\Debug\CSharpFundamentalTests.csprojResolveAssemblyReference.cache
+C:\projects\sandbox\CSharpFundamentals\CSharpFundamentalTests\obj\Debug\CSharpFundamentalTests.dll
+C:\projects\sandbox\CSharpFundamentals\CSharpFundamentalTests\obj\Debug\CSharpFundamentalTests.pdb

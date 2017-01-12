@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="wf_meddemo" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=VM-JTHOMPSON;Initial Catalog=wf_meddemo;Integrated Security=True" SettingsObjectName="LinqRepositorySample.Properties.Settings" SettingsPropertyName="wf_meddemoConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.wfdc_FDB_RMIID1_MED" Member="wfdc_FDB_RMIID1_MEDs">
+    <Type Name="wfdc_FDB_RMIID1_MED">
+      <Column Name="MEDID" Type="System.Decimal" DbType="Decimal(8,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ROUTED_DOSAGE_FORM_MED_ID" Type="System.Decimal" DbType="Decimal(8,0) NOT NULL" CanBeNull="false" />
+      <Column Name="MED_STRENGTH" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="MED_STRENGTH_UOM" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="MED_MEDID_DESC" Type="System.String" DbType="VarChar(70) NOT NULL" CanBeNull="false" />
+      <Column Name="GCN_SEQNO" Type="System.Decimal" DbType="Decimal(6,0) NOT NULL" CanBeNull="false" />
+      <Column Name="MED_GCNSEQNO_ASSIGN_CD" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="MED_NAME_SOURCE_CD" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="MED_REF_FED_LEGEND_IND" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="MED_REF_DEA_CD" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="MED_REF_MULTI_SOURCE_CD" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="MED_REF_GEN_DRUG_NAME_CD" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="MED_REF_GEN_COMP_PRICE_CD" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="MED_REF_GEN_SPREAD_CD" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="MED_REF_INNOV_IND" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="MED_REF_GEN_THERA_EQU_CD" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="MED_REF_DESI_IND" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="MED_REF_DESI2_IND" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="MED_STATUS_CD" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="GENERIC_MEDID" Type="System.Decimal" DbType="Decimal(8,0)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

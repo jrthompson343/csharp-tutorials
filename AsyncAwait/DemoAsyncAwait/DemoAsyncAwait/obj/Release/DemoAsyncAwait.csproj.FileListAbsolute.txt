@@ -1,0 +1,6 @@
+C:\projects\sandbox\AsyncAwait\DemoAsyncAwait\DemoAsyncAwait\bin\Release\DemoAsyncAwait.exe.config
+C:\projects\sandbox\AsyncAwait\DemoAsyncAwait\DemoAsyncAwait\bin\Release\DemoAsyncAwait.exe
+C:\projects\sandbox\AsyncAwait\DemoAsyncAwait\DemoAsyncAwait\bin\Release\DemoAsyncAwait.pdb
+C:\projects\sandbox\AsyncAwait\DemoAsyncAwait\DemoAsyncAwait\obj\Release\DemoAsyncAwait.exe
+C:\projects\sandbox\AsyncAwait\DemoAsyncAwait\DemoAsyncAwait\obj\Release\DemoAsyncAwait.pdb
+C:\projects\sandbox\AsyncAwait\DemoAsyncAwait\DemoAsyncAwait\obj\Release\DemoAsyncAwait.csprojResolveAssemblyReference.cache

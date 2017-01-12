@@ -1,0 +1,1 @@
+C:\projects\sandbox\LinqRepositorySample\LinqRepositorySample\bin\Debug\LinqRepositorySample.exe.config
